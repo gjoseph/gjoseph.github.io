@@ -2,14 +2,12 @@
 title: Greg's website 
 layout: page 
 ---
-= Sample Page
-:layout: page
-:permalink: /page/
+# Sample Page
 
 Hello, world.
 
 * This is
-* an asciidoc list
+* a kramdown list
 * yay
 
 
