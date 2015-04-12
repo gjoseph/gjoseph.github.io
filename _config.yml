@@ -1,0 +1,13 @@
+asciidoc: asciidoctor
+asciidoc_ext: asciidoc,adoc,ad
+asciidoctor:
+  attributes:
+    - hardbreaks!
+    - idseparator=_
+    #- source-highlighter=coderay
+    - source-highlighter=pygments
+    - pygments-css=style
+    - icons=font-awesome
+
+gems:
+  - jekyll-asciidoc

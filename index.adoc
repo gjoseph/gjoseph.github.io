@@ -1,0 +1,15 @@
+---
+title: Greg's website 
+layout: page 
+---
+= Sample Page
+:layout: page
+:permalink: /page/
+
+Hello, world.
+
+* This is
+* an asciidoc list
+* yay
+
+
