@@ -1,13 +1,18 @@
 ---
-title: Greg's website 
+#title: Greg's website 
 layout: page 
 ---
-# Sample Page
+Hi, there.
 
-Hello, world.
+I'm not sure this site will ever have more content. I certainly won't make promises about that.
 
-* This is
-* a kramdown list
-* yay
+I currently work on Magnolia CMS: http://git.magnolia-cms.com
 
+I have some projects on GitHub: https://github.com/gjoseph
+
+I do some other things, too.
+
+```java
+System.out.println("Hello");
+```
 
