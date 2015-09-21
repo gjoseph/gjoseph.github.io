@@ -47,3 +47,29 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.social-media-list {
+  a {
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+  }
+
+  .icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+
+    > svg {
+      path {
+        fill: $grey-color;
+      }
+      path.invert {
+          fill: $background-color;
+        }
+    }
+  }
+
+}
