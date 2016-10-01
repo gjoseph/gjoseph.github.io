@@ -71,6 +71,9 @@ $on-laptop:        800px;
       path {
         fill: $grey-color;
       }
+      ellipse {
+        fill: $grey-color;
+      }
       path.invert {
           fill: $background-color;
         }
