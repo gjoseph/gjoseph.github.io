@@ -53,6 +53,11 @@ $on-laptop:        800px;
     padding-left: 20px;
     background-repeat: no-repeat;
     vertical-align: middle;
+    text-decoration: none;
+
+    .username:hover {
+      text-decoration: underline;
+    }
   }
 
   .icon {
