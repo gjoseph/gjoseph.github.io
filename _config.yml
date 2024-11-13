@@ -6,7 +6,7 @@ title: Grégory Joseph, Software person
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-# url: http://www.incongru.net
+url: https://incongru.net
 twitter_username: hpesojg
 bitbucket_username: hpesojg
 github_username: gjoseph
