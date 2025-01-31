@@ -4,9 +4,13 @@ layout: page
 ---
 Hi, there.
 
-I currently work on JIRA Service Desk: https://www.atlassian.com/software/jira/service-desk
+I work at [Honey Insurance](https://www.honeyinsurance.com/), the #1 fastest growing tech company in Australia 😲
 
-I did quite a bit of work on Magnolia CMS in the past: https://git.magnolia-cms.com/
+I worked at Atlassian on [Jira Service Management](https://www.atlassian.com/software/jira/service-management/features/service-desk)
+for a fair while.
+
+I did [quite a bit of work on Magnolia CMS](https://git.magnolia-cms.com/) in the past ‒ however, it looks
+like the core product is not available in their open source [repo](https://bitbucket.org/magnolia-cms/workspace/repositories/)[sitories](https://github.com/magnolia-cms) anymore.
 
 I have some projects on GitHub: https://github.com/gjoseph/
 
