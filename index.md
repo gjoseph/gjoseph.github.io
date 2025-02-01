@@ -11,9 +11,9 @@ for a fair while.
 
 I did [quite a bit of work on Magnolia CMS](https://git.magnolia-cms.com/ " ‒ it looks like this Git link is not available, and the core product is not available in their open source GitHub and BitBucket repositories either anymore either ☹️") in the past.
 
-I have some projects on GitHub: [https://github.com/gjoseph/]().
+I have some projects on GitHub: [https://github.com/gjoseph/](https://github.com/gjoseph/).
 
-I have some projects on Bitbucket: [https://bitbucket.org/hpesojg/]().
+I have some projects on Bitbucket: [https://bitbucket.org/hpesojg/](https://bitbucket.org/hpesojg/).
 
 I do some other things, too.
 
