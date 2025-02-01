@@ -1,21 +1,22 @@
 # Site settings
 title: Grégory Joseph, Software person
 # email: your-email@domain.com
-# description: > # this means to ignore newlines until "baseurl:"
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
+description: "Grégory Joseph, Software person"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://incongru.net
-twitter_username: hpesojg
+
+#twitter_username: hpesojg
 bitbucket_username: hpesojg
 github_username: gjoseph
 linkedin_username: hpesojg
 
 # Build settings
-#markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
+#markdown: redcarpet
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 
-redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+#redcarpet:
+#  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+
+exclude:
+  - bin/
